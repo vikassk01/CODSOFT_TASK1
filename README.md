@@ -4,6 +4,8 @@ NAME:VIKAS SHIVAPUTRAPPA KOGANOOR
 STUDENT ID: CS25RY6480
 DOMAIN:JAVA PROGRAMMING
 
+I recently built a Number Game using Java, and it was an exciting experience that helped me strengthen my programming skills.
+
 key concepts:
 ✅ Core Java Concepts 
 ✅ User Input Handling 
